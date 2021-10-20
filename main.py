@@ -39,8 +39,6 @@ Prodi   : Sistem dan Teknologi Informasi\n
 \n
 Ujian Tengah Semester 2021/2022 - II3160 Teknologi Sistem Terintegrasi\n 
 \n
-Username : asdf\n
-Password : asdf\n
 '''
 
 # Aplikasi FASTAPI
